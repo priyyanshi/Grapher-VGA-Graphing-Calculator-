@@ -8,10 +8,11 @@ Grapher is a graphing calculator application that allows users to graph lines, p
 1.	To view the project on CPULATOR (https://cpulator.01xz.net/?sys=arm-de1soc), set preallocated memory in CPULATOR to 16 MB and disable device-specific warnings in CPULATOR. 
 3.	Upon running the application, the following display will appear.
 
-    ![](images/Screen%201.png)
+    ![ ](images/Screen%201.png)
  
 4.	After pressing KEY[0] to continue, the following screen will appear.
- 
+    
+    ![ ](images/Screen%202.png)
 
 5.	Use the switches to choose the function to graph. The selection is NOT in binary. The first option is selected with SW[0], the second option will be selected with SW[1] and so on. 
 6.	If for example the user chooses to graph a linear polynomial, the following screen will appear. The user can select values for A, B and C with switches in binary. First the user chooses A, then B, and then C. After setting the switches to the value the user wants for a variable, the user must press KEY[0] to set the next variable. The user can select negatives values, to do so the user must set SW[9] to one then input the magnitude on SW[8:0].
